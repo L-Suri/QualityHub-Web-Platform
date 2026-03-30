@@ -1,13 +1,5 @@
-import Button from "@mui/material/Button";
+import AppRoutes from "./routes/AppRoutes";
 
-function App() {
-  return (
-    <div style={{ padding: "2rem" }}>
-      <Button variant="contained" color="primary">
-        Material UI Working!
-      </Button>
-    </div>
-  );
+export default function App() {
+  return <AppRoutes />;
 }
-
-export default App;
