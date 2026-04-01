@@ -53,3 +53,4 @@ export default function Login() {
     </Box>
   );
 }
+// Story 2.5 UI finalized
