@@ -1,3 +1,3 @@
 export default function TestCasesList() {
-  return <h1>Test Cases List</h1>;
+  return <h2>Test Cases</h2>;
 }
